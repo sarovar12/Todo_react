@@ -1,2 +1,1 @@
-# Todo 
-This thing was working fine untill Heroku decided to not let me use their database for free.
+Simple Todo app made with by using Appolo and React
